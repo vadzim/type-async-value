@@ -2,6 +2,6 @@
 
 flow & typescript typings for the type
 
-```js
+```typescript
 type AsyncValue<T> = Promise<T> | T
 ```
