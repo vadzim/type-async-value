@@ -1,2 +1,7 @@
 # type-async-value
-AsyncValue type
+
+flow & typescript typings for the type
+
+```js
+type AsyncValue<T> = Promise<T> | T
+```
