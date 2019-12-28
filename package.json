@@ -5,7 +5,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "tsc --lib es2015 --noEmit ./test.ts && flow check ./test.js",
+    "test": "tsc --lib es2015 --noEmit ./test.ts && flow check ./test.js.flow",
     "preversion": "npm test"
   },
   "repository": {
