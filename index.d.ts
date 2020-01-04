@@ -1,1 +1,1 @@
-export type AsyncValue<T> = Promise<T> | T
+export type AsyncValue<T> = PromiseLike<T> | T
