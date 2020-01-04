@@ -1,6 +1,6 @@
 {
   "name": "type-async-value",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "type AsyncValue<T> = Promise<T> | T",
   "main": "index.js",
   "types": "index.d.ts",
